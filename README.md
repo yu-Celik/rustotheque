@@ -1,23 +1,23 @@
-# <i>Bibliothèque Rust</i>
+# Bibliothèque Rust
 
-<i>Un système simple de gestion de bibliothèque implémenté en Rust.</i>
+Un système simple de gestion de bibliothèque implémenté en Rust.
 
-## <i>Fonctionnalités</i>
+## Fonctionnalités
 
-- <i>Ajouter de nouveaux livres à la bibliothèque</i>
-- <i>Emprunter des livres</i>
-- <i>Retourner des livres empruntés</i>
-- <i>Afficher les livres disponibles</i>
-- <i>Rechercher des livres par titre</i>
+- Ajouter de nouveaux livres à la bibliothèque
+- Emprunter des livres
+- Retourner des livres empruntés
+- Afficher les livres disponibles
+- Rechercher des livres par titre
 
-## <i>Structure du projet</i>
+## Structure du projet
 
 Le projet est composé de deux fichiers principaux :
 
 - `src/main.rs` : Contient la logique principale du programme et l'interface utilisateur.
 - `src/library.rs` : Définit les structures `Book` et `Library` ainsi que leurs implémentations.
 
-## <i>Installation</i>
+## Installation
 
 1. Assurez-vous d'avoir Rust installé sur votre système. Si ce n'est pas le cas, vous pouvez l'installer depuis [https://www.rust-lang.org/](https://www.rust-lang.org/).
 
@@ -32,7 +32,7 @@ Le projet est composé de deux fichiers principaux :
    cargo build --release
    ```
 
-## <i>Utilisation</i>
+## Utilisation
 
 Pour lancer le programme, exécutez :
    ```
@@ -41,18 +41,18 @@ Pour lancer le programme, exécutez :
 
 Suivez les instructions à l'écran pour interagir avec la bibliothèque.
 
-## <i>Accessibilité</i>
+## Accessibilité
 
 Ce projet a été conçu en gardant à l'esprit les principes d'accessibilité :
 
-- <i>Interface utilisateur textuelle simple et claire</i>
-- <i>Messages d'erreur explicites</i>
-- <i>Compatibilité avec les lecteurs d'écran grâce à des sorties textuelles bien structurées</i>
+- Interface utilisateur textuelle simple et claire
+- Messages d'erreur explicites
+- Compatibilité avec les lecteurs d'écran grâce à des sorties textuelles bien structurées
 
-## <i>Contribution</i>
+## Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-## <i>Licence</i>
+## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
