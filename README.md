@@ -23,7 +23,7 @@ Le projet est composé de deux fichiers principaux :
 
 2. Clonez ce dépôt :
    ```
-   git clone https://github.com/votre-nom-utilisateur/bibliotheque-rust.git
+   git clone https://github.com/yu-Celik/bibliotheque-rust.git
    cd bibliotheque-rust
    ```
 
